@@ -1,6 +1,6 @@
 # Study of GTK performace
 
-We start our project with the notebook `TP4b_project_study.ipynb`
+We start our project with the notebook [TP4b_project_study.ipynb](TP4b_project_study.ipynb)
 
 Literature:
 - [NA62 detector paper](https://iopscience.iop.org/article/10.1088/1748-0221/12/05/P05025)
