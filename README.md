@@ -9,4 +9,5 @@ Literature:
 - [HSF training](https://hsf-training.github.io/analysis-essentials/python/README.html)
 - `ROOT` [documentation](https://root.cern/)
 - `uproot` [documentation](https://uproot.readthedocs.io/en/latest/)
+- `zfit` [documentation](https://zfit.readthedocs.io/en/0.3.6/getting_started.html)
 - [TDCPix design manual](https://espace.cern.ch/tdc-pix/Shared%20Documents/20130506TDCpix_design_manual.pdf)
