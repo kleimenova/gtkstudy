@@ -1,4 +1,4 @@
-# Study of GTK performace
+# Study of GTK performance
 
 We start our project with the notebook [TP4b_project_study.ipynb](TP4b_project_study.ipynb)
 
