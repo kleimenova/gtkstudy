@@ -1,0 +1,16 @@
+{
+  "spellright.language": [
+    "English (British)"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext"
+  ],
+  "files.associations": {
+    "*.mac": "shellscript",
+    "*.dat": "shellscript",
+    "copyTree.C": "cpp",
+    "add_branch.C": "cpp"
+  }
+}
